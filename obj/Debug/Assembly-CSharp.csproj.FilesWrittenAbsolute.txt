@@ -1,0 +1,13 @@
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/dima/Documents/Projects/CircularWorld/obj/Debug/Assembly-CSharp.dll
+/Users/dima/Documents/Projects/CircularWorld/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/UnityEngine.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/UnityEditor.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/Mono.Cecil.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/Unity.DataContract.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/dima/Documents/Projects/CircularWorld/Temp/bin/Debug/Unity.CecilTools.dll

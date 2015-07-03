@@ -1,0 +1,62 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Soomla/Profile/IOSImpl/ProfileEventPusherIOS.cs">
+    <Files>
+      <File FileName="../JogaCopter/Assets/Tests/Scripts/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="../JogaCopter/Assets/JogaCopter/Scripts/BackgroundScroll.cs" Line="12" Column="2" />
+      <File FileName="../JogaCopter/Assets/JogaCopter/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="../JogaCopter/Assets/JogaCopter/Scripts/CollectableItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Soomla/Editor/SoomlaPostBuild.cs" Line="19" Column="7" />
+      <File FileName="Assets/Game/Scripts/Views/Generators/BlocksGenerator.cs" Line="28" Column="2" />
+      <File FileName="Assets/Game/Scripts/Views/Generators/ObstacleGeneratorBase.cs" Line="58" Column="43" />
+      <File FileName="Assets/Plugins/Soomla/Profile/IOSImpl/ProfileEventPusherIOS.cs" Line="122" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Game" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Views" expanded="True">
+                  <Node name="Generators" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-Editor" expanded="True">
+            <Node name="Soomla" expanded="True">
+              <Node name="Editor" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Plugins" expanded="True">
+              <Node name="Facebook" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Soomla" expanded="True">
+                <Node name="Profile" expanded="True">
+                  <Node name="IOSImpl" expanded="True">
+                    <Node name="ProfileEventPusherIOS.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

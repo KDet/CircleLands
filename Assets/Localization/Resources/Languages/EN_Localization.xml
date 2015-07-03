@@ -1,0 +1,36 @@
+<entries>
+	<entry name="TapToPlay">TAP TO PLAY</entry>
+	<entry name="BestResult">BEST RESULT</entry>
+	<entry name="Unavailable">UNAVAILABLE</entry>
+	<entry name="Shop">SHOP</entry>
+	<entry name="HowToPlay">HOW TO PLAY</entry>
+	<entry name="Exit">EXIT</entry>
+	<entry name="Menu">MENU</entry>
+	<entry name="Retry">RETRY</entry>
+	<entry name="GameOver">GAME OVER</entry>
+	<entry name="Result">SCORE</entry>
+	<entry name="GameContinue">GAME CONTINUE</entry>
+	<entry name="WatchVideo">WATCH VIDEO</entry>
+	<entry name="AboutBlocks">Avoid these things. Quickly pokes the screen to drop the barrier. Caution! When one dip - other rise</entry>
+	<entry name="AboutPlayer">“I'm a player. I'm mad. Only the wall can stop me, do not let me break”</entry>
+	<entry name="AboutFlags">Gold flag - the currency in these lands</entry>
+	<entry name="AboutDistance">Passed distance</entry>
+	<entry name="Characters">CHARACTERS</entry>
+	<entry name="Lands">LANDS</entry>
+	<entry name="Sanja">SANJA</entry>
+	<entry name="Kolya">KOLYA</entry>
+	<entry name="Vasya">VASYA</entry>
+	<entry name="Pyetya">PYETYA</entry>
+	<entry name="Tolia">TOLIA</entry>
+	<entry name="Free">Free</entry>
+	<entry name="Flags">flags</entry>
+	<entry name="Blocks">BLOCKS</entry>
+	<entry name="Spikes">SPIKES</entry>
+	<entry name="Wheels">WHEELS</entry>
+	<entry name="AreYouSure">ARE YOU SURE?</entry>
+	<entry name="ExitMessage">Actions speak louder than words...</entry>
+	<entry name="Yes">YES</entry>
+	<entry name="No">NO</entry>
+	<entry name="SomethingIsWrong">SOMETHING IS WRONG :(</entry>
+	<entry name="NoInternet">Check your Internet connection...play fair</entry>
+</entries>

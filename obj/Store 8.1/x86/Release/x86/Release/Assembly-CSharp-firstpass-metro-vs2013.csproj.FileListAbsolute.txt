@@ -1,0 +1,17 @@
+D:\CircularWorld\bin\Store 8.1\x86\Release\Assembly-CSharp-firstpass.dll
+D:\CircularWorld\bin\Store 8.1\x86\Release\Assembly-CSharp-firstpass.pdb
+D:\CircularWorld\bin\Store 8.1\x86\Release\Assembly-CSharp-firstpass.pri
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\priconfig.xml
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\priconfig.xml.intermediate
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\layout.resfiles
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\layout.resfiles.intermediate
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\resources.resfiles
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\resources.resfiles.intermediate
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\pri.resfiles
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\pri.resfiles.intermediate
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\qualifiers.txt
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\qualifiers.txt.intermediate
+D:\CircularWorld\obj\Store 8.1\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

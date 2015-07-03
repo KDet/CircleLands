@@ -1,0 +1,36 @@
+<entries>
+	<entry name="TapToPlay">ТИЦЬНИ І ПОЧНИ</entry>
+	<entry name="BestResult">КРАЩИЙ РЕЗУЛЬТАТ</entry>
+	<entry name="Unavailable">НЕДОСТУПНО</entry>
+	<entry name="Shop">МАГАЗИН</entry>
+	<entry name="HowToPlay">ЯК ГРАТИ</entry>
+	<entry name="Exit">ВИХІД</entry>
+	<entry name="Menu">МЕНЮ</entry>
+	<entry name="Retry">ЗНОВУ</entry>
+	<entry name="GameOver">КІНЕЦЬ ГРИ</entry>
+	<entry name="Result">РЕЗУЛЬТАТ</entry>
+	<entry name="GameContinue">ПРОДОВЖУВАТИ ГРУ</entry>
+	<entry name="WatchVideo">ПЕРЕГЛЯНЬ ВІДЕО</entry>
+	<entry name="AboutBlocks">Уникай ці штуки. Швидко тицяй на екран, щоб опустити перешкоду. Увага! Коли опускаються одні - інші піднімаються</entry>
+	<entry name="AboutPlayer">“Я гравець. Я скажений. Тільки стіна може мене зупинити, не дозволь мені розбитися”</entry>
+	<entry name="AboutFlags">Золотий прапор - валюта в цих землях</entry>
+	<entry name="AboutDistance">Пройдена відстань</entry>
+	<entry name="Characters">ПЕРСОНИ</entry>
+	<entry name="Lands">ЗЕМЛІ</entry>
+	<entry name="Sanja">САНЯ</entry>
+	<entry name="Kolya">КОЛЯ</entry>
+	<entry name="Vasya">ВАСЯ</entry>
+	<entry name="Pyetya">ПЄТЯ</entry>
+	<entry name="Tolia">ТОЛЯ</entry>
+	<entry name="Free">Халява</entry>
+	<entry name="Flags">прапорів</entry>
+	<entry name="Blocks">БЛОКИ</entry>
+	<entry name="Spikes">КОЛЮЧКИ</entry>
+	<entry name="Wheels">КОЛЕСА</entry>
+	<entry name="AreYouSure">ВИ ВПЕВНЕНІ?</entry>
+	<entry name="ExitMessage">Не по словах судять, а по ділах...</entry>
+	<entry name="Yes">ТАК</entry>
+	<entry name="No">НІ</entry>
+	<entry name="SomethingIsWrong">ЩОСЬ ПІШЛО НЕ ТАК :(</entry>
+	<entry name="NoInternet">Перевір своє інтернет з'єднання...грай чесно</entry>
+</entries>

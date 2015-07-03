@@ -1,0 +1,36 @@
+<entries>
+	<entry name="TapToPlay">ТКНИ И НАЧНИ</entry>
+	<entry name="BestResult">ЛУЧШИЙ РЕЗУЛЬТАТ</entry>
+	<entry name="Unavailable">НЕДОСТУПЕН</entry>
+	<entry name="Shop">МАГАЗИН</entry>
+	<entry name="HowToPlay">КАК ИГРАТЬ</entry>
+	<entry name="Exit">ВЫХОД</entry>
+	<entry name="Menu">МЕНЮ</entry>
+	<entry name="Retry">СНОВА</entry>
+	<entry name="GameOver">КОНЕЦ ИГРЫ</entry>
+	<entry name="Result">РЕЗУЛЬТАТ</entry>
+	<entry name="GameContinue">ПРОДОЛЖАТЬ ИГРУ</entry>
+	<entry name="WatchVideo">ПОСМОТРИ ВИДЕО</entry>
+	<entry name="AboutBlocks">Избегай эти штуки. Быстро тыч на экран, чтобы опустить препятствие. Внимание! Когда опускаются одни - другие поднимаются</entry>
+	<entry name="AboutPlayer">“Я игрок. Я бешеный. Только стена может меня остановить, не позволь мне разбиться”</entry>
+	<entry name="AboutFlags">Золотой флаг - валюта в этих землях</entry>
+	<entry name="AboutDistance">Пройденное расстояние</entry>
+	<entry name="Characters">ПЕРСОНЫ</entry>
+	<entry name="Lands">ЗЕМЛИ</entry>
+	<entry name="Sanja">САНЯ</entry>
+	<entry name="Kolya">КОЛЯ</entry>
+	<entry name="Vasya">ВАСЯ</entry>
+	<entry name="Pyetya">ПЕТЯ</entry>
+	<entry name="Tolia">ТОЛЯ</entry>
+	<entry name="Free">Халява</entry>
+	<entry name="Flags">флагов</entry>
+	<entry name="Blocks">БЛОКИ</entry>
+	<entry name="Spikes">КОЛЮЧКИ</entry>
+	<entry name="Wheels">КОЛЕСА</entry>
+	<entry name="AreYouSure">ВЫ УВЕРЕНЫ?</entry>
+	<entry name="ExitMessage">Не по словам судят, а по делам...</entry>
+	<entry name="Yes">ДА</entry>
+	<entry name="No">НЕТ</entry>
+	<entry name="SomethingIsWrong">ЧТО-ТО ПОШЛО НЕ ТАК :(</entry>
+	<entry name="NoInternet">Проверь свое интернет соединение ... играй честно</entry>
+</entries>

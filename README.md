@@ -68,5 +68,10 @@ Facebook page screenshot
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/FacebookScreenshot.PNG)](https://github.com/KDet/CircleLands)
 
+
+####Exit
+[![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/Exit.PNG)](https://github.com/KDet/CircleLands)
+
+
 ##Copyright/Attribution Notice: 
 CircleLands game is free material under the [Creative Commons license (CC-BY-SA attribution, share alike)](https://creativecommons.org/licenses/by-sa/3.0)

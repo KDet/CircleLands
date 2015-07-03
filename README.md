@@ -8,6 +8,7 @@ additional ﬂags by watching аn advertisement.
 ####Code sample
 
 To achieve MVVM pattern in the game were used Unity events. For example:
+
 Code snippet
 
     ```

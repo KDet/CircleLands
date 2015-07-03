@@ -30,36 +30,42 @@ Options:
 
 ####“Shop” page
 
--	Tab of Characters
--	Tab of Lands
--	
+Tab of Characters and Tab of Lands
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/ShopC.PNG)](https://github.com/KDet/CircleLands)
  [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/ShopL.PNG)](https://github.com/KDet/CircleLands)
 
 ####Gameplay
 
 -Blocks Land
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/WheelsBlocks.PNG)](https://github.com/KDet/CircleLands)
 
 -Spikes land
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/GamePlaySpikes.PNG)](https://github.com/KDet/CircleLands)
 
 -	WheelsLand
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/GamePlayWheelsLand.PNG)](https://github.com/KDet/CircleLands)
 
 ####Game Over
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/GameOver.PNG)](https://github.com/KDet/CircleLands)
 
 - Extra flags button pressed
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/Advertisement.PNG)](https://github.com/KDet/CircleLands) (screenshot from editor)
 
 85 flags changed to 95
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/AfterAdvertisement.PNG)](https://github.com/KDet/CircleLands)
 
 - Share to facebook button pressed
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/ShareToFacebook.PNG)](https://github.com/KDet/CircleLands)
 
 Facebook page screenshot
+
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/FacebookScreenshot.PNG)](https://github.com/KDet/CircleLands)
 
 ##Copyright/Attribution Notice: 

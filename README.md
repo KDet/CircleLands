@@ -37,11 +37,11 @@ Tab of Characters and Tab of Lands
 
 ####Gameplay
 
--Blocks Land
+- Blocks Land
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/WheelsBlocks.PNG)](https://github.com/KDet/CircleLands)
 
--Spikes land
+- Spikes land
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/GamePlaySpikes.PNG)](https://github.com/KDet/CircleLands)
 

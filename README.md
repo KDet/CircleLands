@@ -10,19 +10,19 @@ additional ﬂags by watching аn advertisement.
 To achieve MVVM pattern in the game were used Unity events. For example:
 Code snippet
 
-[Serializable] public class DistanceChanged : UnityEvent<int> { }
-
-[SerializeField] private DistanceChanged _onDistanceChanged = new DistanceChanged();
-
-public int Distanse
-	{
-		get { return _distanse; }
-		set
-		{
-			_distanse = value;
-			OnValueChanged(ref _distanse, _onDistanceChanged);
-		}
-	}
+    ```
+    [Serializable] public class DistanceChanged : UnityEvent<int> { }
+    [SerializeField] private DistanceChanged _onDistanceChanged = new DistanceChanged();
+    public int Distanse
+    {
+    	get { return _distanse; }
+    	set
+    	{
+    		_distanse = value;
+    		OnValueChanged(ref _distanse, _onDistanceChanged);
+    	}
+    }
+    ```
 
 Editor
 

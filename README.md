@@ -1,11 +1,32 @@
 # CircleLands
 Unity: Game created using only UI-items.
 
-The player moves around the circle land and should avoid 
-obstacles. He gets a ﬂag  for each passed round. Flags - the 
-currency for which you can buy new avatars and lands. There is 
-an opportunity to return to the game after a loss or gain 
+The player moves around the circle land and should avoid obstacles. He gets a ﬂag  for each passed round. Flags - the 
+currency for which you can buy new avatars and lands. There is an opportunity to return to the game after a loss or gain 
 additional ﬂags by watching аn advertisement.
+
+####Code sample
+
+To achieve MVVM pattern in the game were used Unity events. For example:
+Code snippet
+
+[Serializable] public class DistanceChanged : UnityEvent<int> { }
+
+[SerializeField] private DistanceChanged _onDistanceChanged = new DistanceChanged();
+
+public int Distanse
+	{
+		get { return _distanse; }
+		set
+		{
+			_distanse = value;
+			OnValueChanged(ref _distanse, _onDistanceChanged);
+		}
+	}
+
+Editor
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/Code.PNG)](https://github.com/KDet/CircleLands)
 
 ## Screenshots
 ####Main menu

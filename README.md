@@ -5,6 +5,7 @@ The player moves around the circle land and should avoid obstacles. He gets a �
 currency for which you can buy new avatars and lands. There is an opportunity to return to the game after a loss or gain 
 additional ﬂags by watching аn advertisement.
 
+
 ####Code sample
 
 To achieve MVVM pattern in the game were used Unity events. For example:
@@ -29,6 +30,7 @@ Editor
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/Code.PNG)](https://github.com/KDet/CircleLands)
 
+
 ## Screenshots
 ####Main menu
 Options:
@@ -50,12 +52,14 @@ Options:
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/HowToPlayL.PNG)](https://github.com/KDet/CircleLands)
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/HowToPlayP.PNG)](https://github.com/KDet/CircleLands)
 
+
 ####“Shop” page
 
 Tab of Characters and Tab of Lands
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/ShopC.PNG)](https://github.com/KDet/CircleLands)
  [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/ShopL.PNG)](https://github.com/KDet/CircleLands)
+
 
 ####Gameplay
 
@@ -70,6 +74,7 @@ Tab of Characters and Tab of Lands
 -	WheelsLand
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/GamePlayWheelsLand.PNG)](https://github.com/KDet/CircleLands)
+
 
 ####Game Over
 [![Screen Shot](https://raw.githubusercontent.com/KDet/CircleLands/master/images/GameOver.PNG)](https://github.com/KDet/CircleLands)
